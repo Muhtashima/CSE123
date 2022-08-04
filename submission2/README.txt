@@ -1,21 +1,20 @@
 Link to unlisted youtube video:
-https://youtube.com/.....
+https://youtu.be/bWXZVnAVZrA
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://www.canva.com/design/DAFFv3ww_4E/eM-QW4idKzKY7AkM8ysWVQ/edit?utm_content=DAFFv3ww_4E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 Paper title:
-NLP using ANN
+Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation
 
 Link to the paper:
-https://ieeexplore......
+https://nlp.stanford.edu/pubs/miura2021ifcc.pdf
 
 Group Number:
-0
+3
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+18101479 Mahzabin Yasmin Binte Amin
+19101167 Fawzia Maksurah
+19101204 Fawzia Muhtashima
